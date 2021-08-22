@@ -1,2 +1,2 @@
-# class25angry_birdgame
-images are inherited 
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
